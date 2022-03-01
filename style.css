@@ -4,7 +4,7 @@
     font-family: Arial,sans-serif;
 }
 body{
-    background-image: url(./img/fundo.jpg);
+    background-image: url(/img/fundo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -166,7 +166,7 @@ input {
   background: #f7f7f7;
   border: 1px solid rgba(118, 122, 184, 0.8);
   border-radius: 5px;
-  background-image: url(./img/fundo.jpg);
+  background-image: url(/img/fundo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
